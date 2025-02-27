@@ -50,3 +50,7 @@ $$F := \frac{4R^{2}}{s\lambda} \gtrsim 1,$$
 as when ${ F \ll 1 }$, near-field diffraction is not a good approximation anymore and Fraunhofer diffraction should be considered.
 
 For other shapes close to circles, other spots appear, e.g. for an ellipse, the spot has the shape of an evolute (the locus of all the centres of curvature). But if small-scale deviations (surface roughness) appear, the interference cancels out quickly: the deviation should not be much more than 10% of the Fresnel zone to see an ideal spot. The Fresnel zone for a ${ \pu{4mm} }$ disk is about ${ \pu{77\micro m} }$.
+
+---
+
+Source (if not cited otherwise): [Wikipedia on Arago spot](https://en.wikipedia.org/wiki/Arago_spot)
