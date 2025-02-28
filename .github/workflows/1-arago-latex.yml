@@ -5,7 +5,7 @@ on:
     branches:
       - arago-florian
     paths:
-      - 1-arago/report
+      - 1-arago/report/**
   workflow_dispatch:
 
 jobs:
