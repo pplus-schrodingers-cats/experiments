@@ -3,7 +3,8 @@ name: Compile Arago spot report
 on:
   push:
     branches:
-      - arago-florian
+      - main
+      # - arago-florian
     paths:
       - 1-arago/report/**
   workflow_dispatch:
