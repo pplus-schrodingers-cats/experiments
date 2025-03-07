@@ -1,6 +1,7 @@
 Positions: +- 1mm
 flange length = 44mm distance between lens mount and sensor
-Ball pos: 25.0, changing camera pos
+Ball size 2.5mm
+Ball pos: 25cm, changing camera pos
 Camera pos:
 119, 1770 (picture number)
 117, 1771
@@ -53,3 +54,8 @@ Camera pos:
 31, 1818
 
 
+---------------
+Ball size: 8mm
+Ball position: 79cm
+Camera pos: 40.2cm
+picture number 
