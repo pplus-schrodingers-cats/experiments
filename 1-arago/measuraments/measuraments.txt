@@ -1,15 +1,15 @@
-Positions: +- 1mm
-flange length = 44mm distance between lens mount and sensor
-Ball size 2.5mm
-Ball pos: 25cm, changing camera pos
-Camera pos:
-119, 1770 (picture number)
+#Positions: +- 1mm
+#Flange length = 44mm distance between lens mount and sensor
+#Ball size 2.5mm
+#Ball pos: 25cm, changing camera pos
+#Camera pos (cm):
+119, 1770 
 117, 1771
 115, 1772
-113, 1773, 
-111, 1774, 
-109, 1775,
-107, 1776, 
+113, 1773
+111, 1774
+109, 1775
+107, 1776
 105, 1777
 103, 1778
 101, 1779
@@ -18,7 +18,7 @@ Camera pos:
 97, 1782
 95, 1783
 93, 1784
-91, 1785 (readjusted downwards)
+91, 1785
 89, 1786
 87, 1787
 85, 1788
@@ -30,7 +30,7 @@ Camera pos:
 73, 1794
 71, 1795
 69, 1796
-67, 1797 readjusted
+67, 1797 
 65, 1798 
 63, 1799
 61, 1800
@@ -40,7 +40,7 @@ Camera pos:
 53, 1804
 51, 1805
 49, 1806
-47, 1807 readjusted
+47, 1807 
 45, 1808
 43, 1809
 42, 1810
@@ -54,8 +54,8 @@ Camera pos:
 31, 1818
 
 
----------------
-Ball size: 8mm
-Ball position: 79cm
-Camera pos: 40.2cm
-picture number 
+#---------------
+#Ball size: 8mm
+#Ball position: 79cm
+#Camera pos: 40.2cm
+#picture number 
