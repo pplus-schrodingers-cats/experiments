@@ -24,4 +24,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: 1-arago-report
-          path: main.pdf
+          path: 1-arago/report/main.pdf
