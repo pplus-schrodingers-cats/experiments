@@ -10,7 +10,7 @@ A laser points into a beam splitter, both split beams are reflected back to the 
 ## Working principle
 The mirrors don't reflect the light exactly with a 0 degree angle else the light would already interfere with itself there. This means that when the two beams get back together they have slightly different directions meaning the two wavefronts are not aligned => the resulting wavefront is not flat => we see a pattern.
 
-By changing the distance between the second mirror and the beam splitter by $\Delta l$, we can increase the optical path of the second beam by a factor of $2 \Delta l$ creating a phase of $2 k \Delta l$ in the resulting beam.
+By changing the distance between the second mirror and the beam splitter by ${ \Delta l }$, we can increase the optical path of the second beam by a factor of ${ 2 \Delta l }$ creating a phase of ${ 2 k \Delta l }$ in the resulting beam.
 
 A continuous increase of the mirror distance (ie. the optical path of the second beam) results in a continuous propagation of the projected pattern, where a full cycle in the pattern movement corresponds to half a wavelength shift of the mirror (ie. one wavelength increase in the optical path of the second beam).
 
@@ -37,12 +37,12 @@ If (when) the first setup works (will have worked) we build an extention of the 
 Using a very thin layer we can install the second mirror onto this membrane to then capture the vibrations of it from the output signal (analysing the deflection of the signal from a relative initial position of the pattern).
 
 ## Theory
-To find the speed of light _c_, knowing $\Delta l$ and _n_:
+To find the speed of light _c_, knowing ${ \Delta l }$ and _n_:
 
-$\begin{align*}
+${ \begin{align*}
 2 \pi n &= \delta \varphi = 2 k \Delta l \\
 2 \pi n &= 2 \frac{2 \pi}{\lambda} \Delta l \\
 2 \pi n &= 2 \frac{2 \pi f}{c} \Delta l \\
 c &= \frac{2 f \Delta l}{n}
-\end{align*}$
+\end{align*} }$
 
