@@ -8,7 +8,7 @@
 A laser points into a beamsplitter, both split beams are reflected back to the beam splitter and the resulting superposed light beam is projected onto a detector/screen producing an interference pattern due to the slightly different direction of the two beams. By moving the second mirror, the phase of the resulting light wave changes and the pattern moves on the screen consequently.
 
 ## Working principle
-The mirrors don't reflect the light exactly with a 0 degree angle else the light would already interfere with itself there. This means that when the two beams get back together they have slightly different directions meaning the two wavefronts are not aligned => the resulting wavefront is not flat => we see a pattern.
+The mirrors don't reflect the light exactly with a 0 degree angle. This means that when the two beams get back together they have slightly different directions meaning the two wavefronts are not aligned => the resulting wavefront is not flat => we see a pattern.
 
 By changing the distance between the second mirror and the beamsplitter by ${ \Delta l }$, we can increase the optical path of the second beam by a factor of ${ 2 \Delta l }$ creating a phase of ${ 2 k \Delta l }$ in the resulting beam.
 
