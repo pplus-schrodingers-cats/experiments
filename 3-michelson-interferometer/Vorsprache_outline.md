@@ -36,13 +36,22 @@ If (when) the first setup works (will have worked) we build an extention of the 
 ### Measure sound waves with the setup (proposition by Pepe)
 Using a very thin layer we can install the second mirror onto this membrane to then capture the vibrations of it from the output signal (analysing the deflection of the signal from a relative initial position of the pattern).
 
-## Theory
+## Formulas
 To find the speed of light _c_, knowing ${ \Delta l }$ and _n_:
 
-${ \begin{align*}
+${  
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{align*}
 2 \pi n &= \delta \varphi = 2 k \Delta l \\
 2 \pi n &= 2 \frac{2 \pi}{\lambda} \Delta l \\
 2 \pi n &= 2 \frac{2 \pi f}{c} \Delta l \\
 c &= \frac{2 f \Delta l}{n}
-\end{align*} }$
+\end{align*}
+
+\end{document}
+ }$
 
