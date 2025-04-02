@@ -5,14 +5,14 @@
 - measure the speed of light _c_ in air
 
 ## The experiment in a few words
-A laser points into a beam splitter, both split beams are reflected back to the beam splitter and the resulting superposed light beam is projected onto a detector/screen producing an interference pattern due to the slightly different direction of the two beams. By moving the second mirror, the phase of the resulting light wave changes and the pattern moves on the screen consequently.
+A laser points into a beamsplitter, both split beams are reflected back to the beam splitter and the resulting superposed light beam is projected onto a detector/screen producing an interference pattern due to the slightly different direction of the two beams. By moving the second mirror, the phase of the resulting light wave changes and the pattern moves on the screen consequently.
 
 ## Working principle
 The mirrors don't reflect the light exactly with a 0 degree angle else the light would already interfere with itself there. This means that when the two beams get back together they have slightly different directions meaning the two wavefronts are not aligned => the resulting wavefront is not flat => we see a pattern.
 
-By changing the distance between the second mirror and the beam splitter by ${ \Delta l }$, we can increase the optical path of the second beam by a factor of ${ 2 \Delta l }$ creating a phase of ${ 2 k \Delta l }$ in the resulting beam.
+By changing the distance between the second mirror and the beamsplitter by ${ \Delta l }$, we can increase the optical path of the second beam by a factor of ${ 2 \Delta l }$ creating a phase of ${ 2 k \Delta l }$ in the resulting beam.
 
-A continuous increase of the mirror distance (ie. the optical path of the second beam) results in a continuous propagation of the projected pattern, where a full cycle in the pattern movement corresponds to half a wavelength shift of the mirror (ie. one wavelength increase in the optical path of the second beam).
+A continuous increase of the mirror distance (i.e. the optical path of the second beam) results in a continuous propagation of the projected pattern, where a full cycle in the pattern movement corresponds to half a wavelength shift of the mirror (i.e. one wavelength increase in the optical path of the second beam).
 
 cfr. https://www.youtube.com/watch?v=aRvjULwOhmM
 
