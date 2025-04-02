@@ -40,7 +40,10 @@ Using a very thin layer we can install the second mirror onto this membrane to t
 To find the speed of light _c_, knowing ${ \Delta l }$ and _n_:
 
 ${ 2 \pi n = \delta \varphi = 2 k \Delta l }$
+
 ${ 2 \pi n = 2 \frac{2 \pi}{\lambda} \Delta l }$
+
 ${ 2 \pi n = 2 \frac{2 \pi f}{c} \Delta l }$
+
 ${ c = \frac{2 f \Delta l}{n} }$
 
