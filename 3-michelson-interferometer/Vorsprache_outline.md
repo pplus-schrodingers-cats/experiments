@@ -32,7 +32,8 @@ Our setup includes:
 ## Additional goals 
 
 ### Linear stage
-If (when) the first setup works (will have worked) we build an extention of the moving stage mechanism that allows us to increase the precision and the stability of the movement, to enhance the quality of measurements.
+If (when) the first setup works (will have worked) we could (will) build an extention of the moving stage mechanism that allows us to increase the precision and the stability of the movement, to enhance the quality of the measurements.
+
 ### Measure sound waves with the setup (proposition by Pepe)
 Using a very thin layer we can install the second mirror onto this membrane to then capture the vibrations of it from the output signal (analysing the deflection of the signal from a relative initial position of the pattern).
 
