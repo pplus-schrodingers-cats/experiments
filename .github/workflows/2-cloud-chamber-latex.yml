@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - florian
     paths:
       - 2-cloud-chamber/report/**
   workflow_dispatch:
