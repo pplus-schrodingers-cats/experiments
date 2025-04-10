@@ -1,13 +1,13 @@
 # Cavendish-Experiment
 ## Torsion Pendulum
 Torsion wires are wires which exert a torque opposite and proportional to the displacement angle ${ \theta }$
-![](.\images\Torsion_Pendulum.svg)
+![](./images/Torsion_Pendulum.svg)
 
 The $k$ represents the torsion coefficient and is a property of the wire itself
 The wire naturally oscillates with a period of ${\omega =  \sqrt{  \dfrac{k}{I}} }$  where $I$ is the moment of inerti (simple harmonic oscillator)
 Furthermore, Newton's Law of Gravity suggests that two bodies with Masses $m_{1}m_{2}$ are attracted by a Force ${ F = G \dfrac{m_{1}m_{2}}{r_{12}^{2}} }$ where $G$ is the Gravitational constant and $r_{12}$ the distance between ${ m_{1} }$  and ${ m_{2} }$.
 We construct a harmonic oscillate which uses the two facts above:
-![](.\images\Cavendish_Torsion_Balance_Diagram.svg)
+![](./images/Cavendish_Torsion_Balance_Diagram.svg)
 
 This means on each of the $m$'s has two opposite torques acting on it: 
  ${F_{\text{grav}} =  G \dfrac{2mM}{r^{2}}  }$   (The forces between $m$'s are compensated by the rod in-between). 
@@ -22,7 +22,7 @@ This means in the end we need to measure ${ \theta _{\text{equilibrium}}}$ (how 
 Ideally we measure a time series of $\theta$ and from that determine $r$, $\omega$ and ${ \theta_{\text{equilibrium}} }$ from it:
 $\theta (t)$ can be measured by mounting a mirror to the rod of the $m$'s and shining a laser onto it at a steep an angle as possible and projecting it onto a wall.  Then we can take measurements of the spot on the wall and infer the angle from it. By measuring the period of the oscillation, we can retrieve ${ \omega }$ and ${ \theta_{\text{equilibrium}} }$ will be the value $\theta$ oscillates around (where ${ \ddot{\theta} = 0 }$). 
 
-![](.\images\theta_graph.svg)
+![](./images/theta_graph.svg)
 
 Before or after the experiment we can then measure the angle ${ \theta_{\max} }$ where $r$ would be $0$ and infer $r$ at ${ \theta_{\text{equilibrium}} }$ from it.
 
