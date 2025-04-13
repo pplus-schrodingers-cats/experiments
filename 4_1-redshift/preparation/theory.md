@@ -47,10 +47,14 @@ Combination of spectra of stars, gas and dust.
 - **Stars**:
   - continuous thermal spectrum with absobtion lines cut into it (see image)
   - contains information about chemical composition, surface temperature and luminosity
+ 
+![Star Spectrum](250413_P+_GalaxySpectroskopy_StarSpectrum.jpg)
 
 - **Gas**: hot clouds known as HII regions, regions of star formation
   - rich in ionizing gas, primarily hydrogen
   - the optical spectrum of HII regions consist of just a few emission lines (see image)
+ 
+![HII Region Spectrum](250413_P+_GalaxySpectroskopy_HIISpectrum.jpg)
  
 - **Dust**:
   - relatively cool
@@ -65,7 +69,7 @@ Combination of spectra of stars, gas and dust.
 
 **Spectrum of elliptical galaxies:**
 
-![Spectrum Spiral Galaxy](250413_P+_GalaxySpectroskopy_EGalaxySpectrum.png)
+![Spectrum Elliptical Galaxy](250413_P+_GalaxySpectroskopy_EGalaxySpectrum.png)
 
   
 ### Doppler Shifts/ (Blue- and) Redshift
