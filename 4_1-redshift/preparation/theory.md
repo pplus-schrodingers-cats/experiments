@@ -59,13 +59,13 @@ Combination of spectra of stars, gas and dust.
  
 **Spectrum of spiral galaxies:**
 
-![Spectrum Spiral Galaxy](250413_P+_GalaxySpectroskopy_SGalaxySpectrum)
+![Spectrum Spiral Galaxy](250413_P+_GalaxySpectroskopy_SGalaxySpectrum.png)
 
 - star forming regions lead to clearly visible emission lines
 
 **Spectrum of elliptical galaxies:**
 
-![Spectrum Spiral Galaxy](250413_P+_GalaxySpectroskopy_EGalaxySpectrum)
+![Spectrum Spiral Galaxy](250413_P+_GalaxySpectroskopy_EGalaxySpectrum.png)
 
   
 ### Doppler Shifts/ (Blue- and) Redshift
