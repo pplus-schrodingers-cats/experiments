@@ -135,21 +135,19 @@ def fit_model(measurement, t, x, plot=False):
 
 def calculate_G(omega, eq1, eq2):
   '''Return a ufloat for the calculated value for the gravitational constant from omega and the two equilibrium positions'''
-  # Some measurements with errors
-  mirror = ufloat(2.04, 0.005)
-  mirror_wall = ufloat(1.885, 0.005)
-  L = ufloat(1.1, 0.0005) # Distance between the two pendulum masses
-  r = ufloat(0.1225, 0.005) # Distance pendulum mass to secondary mass # TODO
-  x = y = ufloat(0.1, 0.0005)
-  z = ufloat(0.102, 0.0005)
-  rho = ufloat(11348, 0.5)
+  # Necessary measurements and values with errors
+  mirror = ufloat(2.04, 0.005) # Absolute position of the mirror
+  mirror_wall = ufloat(1.885, 0.005) # Distance between mirror and wall
+  x = y = ufloat(0.1, 0.0005) # x and y lengths of masses
+  z = ufloat(0.102, 0.0005) # z length of masses
+  rho = ufloat(11348, 0.5) # Density of lead
   M = x*y*z * rho
-  print(f'M = {M} kg')
+  L = ufloat(1.1, 0.0005) # Distance between the two pendulum masses
+  r = ufloat(0.121, 0.0005) # Distance pendulum mass to secondary mass: 3 oscillations measured, (0.8+-0.05)cm at closest and (3.4+-0.05)cm at farthest point
   # Calculate the deflection angle
   theta_1 = 1/2 * umath.atan(umath.fabs(eq1 - mirror) / mirror_wall)
   theta_2 = 1/2 * umath.atan(umath.fabs(eq2 - mirror) / mirror_wall)
   theta = umath.fabs(theta_1 - theta_2)
-  print(f'theta = {theta}')
   # Gravitational constant
   G = omega**2 * L * r**2 * theta / (2 * M)
   return G
