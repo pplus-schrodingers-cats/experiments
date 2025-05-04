@@ -114,7 +114,7 @@ def fit_model(measurement, t, x, plot=False):
     return A * np.sin(omega * t + phase) + offset
   # Fit sine wave
   guess = [0.6, 2*np.pi/500, 3*np.pi/2, 1.97]
-  (A_fit, omega_fit, phase_fit, offset_fit), pcov = sp.optimize.curve_fit(model, t, x, p0=guess)
+  (A_fit, omega_fit, phase_fit, offset_fit), pcov = sp.optimize.curve_fit(model, t, x, sigma=0.004,p0=guess, absolute_sigma=True)
   # Uncertainties
   _, omega_fit_std, _, offset_fit_std = np.sqrt(np.diag(pcov))
   omega, offset = [ufloat(omega_fit, omega_fit_std), ufloat(offset_fit, offset_fit_std)]
