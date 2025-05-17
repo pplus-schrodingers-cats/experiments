@@ -8,6 +8,6 @@ Experiment list:
 3. [Michelson interferometer](/3-michelson-interferometer/)
 4. [Cavendish experiment](/4-cavendish/)
 5. [Galaxy/redshift spectroscopy in Bülach](/5-redshift/)
-6. [Drag crisis and flow visualisation](/6-Drag-crisis/)
+6. [Drag crisis and flow visualisation](/6-drag-crisis/)
 
 More information about P+ in the [wiki](https://wiki.phys.ethz.ch/!pplus/start) and on our [group page](https://wiki.phys.ethz.ch/!pplus/general/groups/group15)
